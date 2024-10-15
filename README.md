@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LoganOtt, a PhD candidate in Microbiologya at Iowa State University in the Lab of Dr. Melha Mellata
+- 👋 Hi, I’m @LoganOtt, a Doctor of Microbiology
 - 👀 I’m interested in microbiology and the application of computer science to advance the understanding of the microcosms
-- 🌱 I’m currently learning python data scienc and analysis
+- 🌱 I’m currently learning data visualization and machine leanring models for interpretation of biological data
 - 💞️ I’m looking to collaborate on anything biology related, but study the gut microbiome and the role of host-microbial interactions on the funtion of the host.
-- 📫 How to reach me: ott(at)iastate.du, or at ott.logan(at)gmail.com
+- 📫 How to reach me: ott.logan(at)gmail.com
 
 <!---
 LoganOtt/LoganOtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
